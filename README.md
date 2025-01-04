@@ -15,7 +15,7 @@ Project Title:
   House Price Prediction Using Linear Regression
 
 Objective:
-  To develop a predictive model that estimates house prices based on various features such as location, size, number of bedrooms, and other related factors. The aim is to provide accurate price     predictions, which can assist buyers, sellers, and real estate agents in making informed decisions.
+  To develop a predictive model that estimates house prices based on various features such as location, size, number of bedrooms, and other related factors. The aim is to provide accurate price predictions, which can assist buyers, sellers, and real estate agents in making informed decisions.
 
 Key Activities:
 Data Collection and Preparation:
